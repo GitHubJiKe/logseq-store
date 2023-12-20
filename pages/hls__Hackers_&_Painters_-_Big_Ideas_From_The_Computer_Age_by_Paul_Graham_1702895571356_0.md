@@ -1,0 +1,431 @@
+file:: [Hackers_&_Painters_-_Big_Ideas_From_The_Computer_Age_by_Paul_Graham_1702895571356_0.pdf](../assets/Hackers_&_Painters_-_Big_Ideas_From_The_Computer_Age_by_Paul_Graham_1702895571356_0.pdf)
+file-path:: ../assets/Hackers_&_Painters_-_Big_Ideas_From_The_Computer_Age_by_Paul_Graham_1702895571356_0.pdf
+
+- tribes 部落
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 65802071-9b65-4d76-9590-9b70821854a8
+- ﬁction
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 658020ad-1f1e-4887-8a9f-06c2d8aad981
+- obsessed 着迷的
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 658020d1-f6b7-444c-85d9-2a7f5e4441b4
+- granted 诚然、的确
+  hl-page:: 12
+  ls-type:: annotation
+  id:: 6580212f-209b-4f63-a3c2-fd27782adc78
+  hl-color:: yellow
+- innovation 改革、新概念、新观念
+  hl-page:: 13
+  ls-type:: annotation
+  id:: 6580216a-23b0-4b74-b73d-8a18bab353a2
+  hl-color:: yellow
+- heresy
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 65802194-f71d-4938-9e00-a5b6e29f2d46
+- mechanical
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 658021ad-1af9-427a-b5c6-be645220c3d0
+- misﬁts
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 658021bf-9928-4177-913f-b4a975c7d008
+- iconoclasts
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 658021cf-185a-43bf-9e6b-c0f28340a2b8
+- intellectual 知识分子
+  hl-page:: 13
+  ls-type:: annotation
+  id:: 658021df-2e27-434c-8225-3ed3775c42f9
+  hl-color:: yellow
+	-
+- consequences
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 6580220e-9d2c-4526-8f69-c61f29f0da12
+- intended
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 65802217-092c-446d-a9da-3445cb52bb69
+- popularity
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 658022af-724f-4ff0-b4be-0c2179d1f879
+- graded
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 658022d0-d4d6-4448-ae3e-513fb9fa54ae
+- cheerleaders
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 658022eb-15ba-4973-8cf9-91bbcb6ffe59
+- mild
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 658022fe-ec99-4c7b-95ea-d23b4061d514
+- Down’s Syndrome
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 65802308-65f1-4c92-9464-fa865286b48d
+- retards
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6580231e-a8aa-4aec-98f1-f41313d2e6ce
+- candid
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6580233f-13dc-4a1a-adc5-ed6d81ef745b
+- nerds
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 65802367-378f-4b0e-a036-1076e00be39c
+- orrelation 相互的关系
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 6580238a-dc82-4fdc-8b9a-0f15bb087d68
+	-
+- outcast
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 658023d6-8424-4bc8-842c-5b5b913e7309
+- elementary
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 658023e2-802b-4ad4-a236-b5f893534ff1
+- secondary
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 65802409-fd44-476a-bdf2-56467713f48e
+- rephrase
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 65802427-265a-459d-8f90-f79824d9491e
+- concealing 隐藏
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 6580248b-ca13-4ec7-b09b-c34d91ac704b
+	-
+- enviable
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 6580249a-29ef-4b0e-a7b7-9bc717fdee90
+- despise 轻视、鄙视
+  hl-page:: 16
+  ls-type:: annotation
+  id:: 658024d3-e826-455c-9061-c307dd4616b6
+  hl-color:: yellow
+	-
+- charisma
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 6580254f-8d5d-4cfa-9c41-8f5cbca4d562
+- athletic 运动
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 65802568-7d57-4a87-a1ac-3bfad8989cbb
+- miserable
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 658025a1-efd2-4cb5-bf55-f2852c3fdb73
+- weigh
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: yellow
+  id:: 65802600-acd9-4eb0-a4dc-cc70fe5f0967
+- scalar
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 65802672-9029-42ed-8941-0d3078582df0
+- ﬁercely
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 658026b6-d5a1-4d1c-9659-9eb0ce6cdc20
+- competitive
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 658026b9-2547-4dd3-9f61-26df13dbf1d9
+- no art, however minor, demands less than total dedication if you want to excel in it.
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 658026ef-d0b9-4f26-b21c-2d890e555934
+- Machiavelli
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 65802740-d604-470a-b5c9-295f5d9abfdd
+- conformists
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 65802753-2b0a-4992-840d-449d7b855570
+- consciously 自然的
+  hl-page:: 17
+  ls-type:: annotation
+  id:: 65802763-b3ea-4576-ac25-81beb0834a7d
+  hl-color:: yellow
+	-
+- onsciously
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 65802766-5638-45a5-9325-bc442d017c6c
+- deﬁnition of right
+  ls-type:: annotation
+  hl-page:: 17
+  hl-color:: yellow
+  id:: 65802793-bdbf-4cf1-83b9-a622246b5803
+- adept
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 658028a6-98a2-4911-95b7-8bb84c220b0d
+- crude
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 65802941-d30a-4a68-828c-6f33c90397a9
+- If you leave a bunch of eleven-year-olds to their own devices, what you get is Lord of the Flies.
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 65802971-aa8d-4e37-914f-6f4df2413fe1
+- Presumably it was not a coincidence
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 65802987-aea6-4790-9514-69435b55f9b0
+- savages
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 65802999-0440-451c-b9bd-a317fbc4b889
+- subtle
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 658029b4-aa9e-41a5-bcf5-f893b705004f
+- additional
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 658029c5-e811-4b25-9ff1-79d6af5c212c
+- persecuted
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: yellow
+  id:: 65802a2f-918f-48f2-9d24-97d911a628cb
+- intrinsically
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802aa4-d292-4d19-add0-519d7f209773
+- cruel
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802aab-a9bd-4f2f-9672-309a808a0a9e
+- torture
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802abb-4885-4321-922e-e5e46a8826ee
+- Some torture nerds for the same reason they pull the legs off spiders. Before you develop a conscience, torture is amusing
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802ad8-3829-40a2-b7b9-9f3673055637
+- tread
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802b05-d151-4910-b2f1-ee239ce8837b
+- hostile
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802b45-ff40-4599-b57b-ba6f238d19be
+- mechanism
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802b98-2829-4b48-b6e4-f5da78dff44e
+- individual attractivenes
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802baf-5d94-4c5e-bc22-7ee3a791b751
+- alliances
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802bb8-3039-40fd-9b48-591b8c1624f2
+- [:span]
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802bed-0b67-4334-8512-070477508fde
+  hl-type:: area
+  hl-stamp:: 1702898879604
+	- 变得受欢迎，你就需要持续不断地做一些事情让你可以拉近和那些受欢迎的人之间的距离，那么没有什么别有一个共同的敌人更合适了
+- distract
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802ce2-e59c-4b9c-a1da-a5a13ae712ae
+- sadistic
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802d2a-7ad2-4b7c-a74d-f2f7e97adbbe
+- chase
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802d8c-bfa9-4d87-a4a7-c03e31474de1
+- stoop
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: yellow
+  id:: 65802db0-740a-41fb-a315-f29b1c3c088d
+- communicable 会传染的
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802e1a-0791-4541-b5c8-c888084e59c0
+- conscious malice
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802e6b-b484-4d4d-9302-0225005ef40d
+- nadir
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802e92-d959-4841-a4bb-43bca0eade6b
+- overheard
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802eb0-00de-4723-b5f0-70df6cdc0752
+- devoted
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802eba-af7c-4c7e-8d65-cfb720ad2ea4
+- eloquent
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802ec4-e18c-41bc-9f15-a2595c830b37
+- plea
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802ecb-6dde-4395-ade1-93af72bf1e32
+- There was a brief sensation that year when one of our teachers overheard a group of girls waiting for the school bus, and was so shocked that the next day she devoted the whole class to an eloquent plea not to be so cruel to one another
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: yellow
+  id:: 65802edd-7585-4c18-b659-34289c75ec98
+- dwell
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 65802ff3-8b40-43d5-b155-ec13b954caf5
+- speciﬁc abuses
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 65803003-7841-4370-8a07-56014c7d7894
+- wardens
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 65803019-e8fd-4636-a02a-4ca94a616c66
+- premises
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 65803022-4dc3-49cf-842f-a8a6abe31700
+- warped
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 658030a0-df9b-4c50-92d1-129bc3e930e7
+- savage
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 658030a4-9e65-401c-b615-27898ceca0fa
+- pervasive
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 658030a8-8b2a-45b6-9359-54a5ba63abce
+- premises
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 658030bf-a35f-4b38-8e31-89056b041b0c
+- barbaric
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: yellow
+  id:: 658030ea-3371-4ac6-bf8f-1f7a825cb26c
+- revenue
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 658033b5-0e6d-4da8-88a1-cfdfa377e75a
+- notoriously
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 658033bb-46b3-4c90-a242-0fd697cb1665
+- awkwardness
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 6580fa3c-189d-4255-b983-d2fbde586be7
+- corridor
+  ls-type:: annotation
+  hl-page:: 23
+  hl-color:: yellow
+  id:: 6580fa60-d6b0-496b-a1f9-e24c83d3d0fc

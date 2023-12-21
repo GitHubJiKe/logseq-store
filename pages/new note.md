@@ -8,5 +8,5 @@ id:: 65811906-4059-4936-a9e0-174cff3f25c1
 	- DONE 董昊林
 	- DONE 赵大成
 	- WAITING 刘晓欣
-	- WAITING 张燕妮
+	- DONE 张燕妮
 	- DONE 陈天明
